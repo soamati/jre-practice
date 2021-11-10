@@ -1,0 +1,59 @@
+exports.PRESUPUESTO = "PRESUPUESTO";
+exports.USO = "USO";
+
+exports.VOLUMEN = "VOLUMEN";
+exports.MOVILIDAD = "MOVILIDAD";
+exports.SALIDA_MAS_USADA = "SALIDA_MAS_USADA";
+
+exports.CLIENTE = "CLIENTE";
+exports.ESPECIFICIDAD = "ESPECIFICIDAD";
+
+exports.BAJO = "BAJO";
+exports.MEDIO = "MEDIO";
+exports.ALTO = "ALTO";
+
+exports.BASICO = "BASICO";
+exports.GAMING = "GAMING";
+exports.CONFERENCIA_ONLINE = "CONFERENCIA_ONLINE";
+
+exports.IMPORTANTE = "IMPORTANTE";
+exports.PRESCINDIBLE = "PRESCINDIBLE";
+
+exports.ALTAVOZ = "ALTAVOZ";
+exports.AURICULAR = "AURICULAR";
+exports.MICROFONO = "MICROFONO";
+
+exports.CONECTIVIDAD = "CONECTIVIDAD";
+exports.CABLE = "CABLE";
+exports.WIRELESS = "WIRELESS";
+
+exports.POTENCIA = "POTENCIA";
+exports.COMODIDAD = "COMODIDAD";
+exports.BAJA = "BAJA";
+exports.MEDIA = "MEDIA";
+exports.ALTA = "ALTA";
+
+exports.DIRECCIONALIDAD = "DIRECCIONALIDAD";
+exports.OMNIDIRECCIONAL = "OMNIDIRECCIONAL";
+exports.UNIDIRECCIONAL = "UNIDIRECCIONAL";
+exports.BIDIRECCIONAL = "BIDIRECCIONAL";
+
+exports.A_TIPO = "A_TIPO";
+exports.CASCOS = "CASCOS";
+exports.IN_EAR = "IN_EAR";
+
+exports.M_TIPO = "M_TIPO";
+exports.DE_ESCRITORIO = "DE_ESCRITORIO";
+exports.DE_AURICULAR = "DE_AURICULAR";
+exports.INDEPENDIENTE = "INDEPENDIENTE";
+
+exports.TIPO_1 = "TIPO_1";
+exports.TIPO_2 = "TIPO_2";
+exports.TIPO_3 = "TIPO_3";
+exports.TIPO_4 = "TIPO_4";
+exports.TIPO_5 = "TIPO_5";
+exports.TIPO_6 = "TIPO_6";
+exports.TIPO_7 = "TIPO_7";
+exports.TIPO_8 = "TIPO_8";
+
+exports.RECOMMENDATION = "RECOMMENDATION";
